@@ -1,0 +1,8 @@
+.DS_Store
+build.log
+npm-debug.log
+tmp
+.map
+.idea
+node_modules
+Resources
