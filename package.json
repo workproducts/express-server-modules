@@ -6,7 +6,7 @@
     "test": "gulp mocha"
   },
   "dependencies": {
-    "express-server": "git://github.com/starterstep/express-server.git",
+    "express-server": "git://github.com/workproducts/express-server.git",
     "mailcomposer": "git://github.com/starterstep/mailcomposer.git",
     "underscore": "1.8.3",
     "underscore.string":"3.2.3",
